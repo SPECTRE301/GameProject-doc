@@ -1,23 +1,19 @@
 # Documento de Diseño de Videojuego
 
-## Título del Juego:
-(Nombre de tu juego)
+## Título del Juego: 
 
-## Visión General:
-(Breve descripción de la idea central y el concepto del juego)
+## Visión General: 
+crear un juego de piratas buscando un teesoro mientras que la guardia britanica los persigue
 
 ## Objetivos del Juego:
-- Descripción de los objetivos principales que los jugadores deben alcanzar.
-- Propósito del juego (entretenimiento, educación, etc.).
+objetico 1 entretnerse
+objetivo 2 encontrar el tesoro
 
 ## Mecánicas del Juego:
-- Lista de las mecánicas y acciones clave que los jugadores pueden realizar.
-- Cómo interactúan estas mecánicas para crear una experiencia de juego única.
+los jugadores pueden manejar su barco, dar ordenes a su tripulacion, disparar a los enemigos, visitar ciudades donde encontrar mejoras a cambio de oro, pueden cubrirse y pueden usar una espada
 
 ## Jugabilidad:
-- Descripción detallada de cómo los jugadores interactuarán con el juego.
-- Desafíos que enfrentarán y cómo superarlos.
-- Posibles modos de juego (si corresponde).
+los jugadores seran capitanes pirata y como tal tendran que ir a aldeas a reclutar a su tripulacion tendran que conseguir oro para reparar sus navios y mejorarlos habra enemigos como otros piratas y la guardia britanica y el objetivo principal sera encontrar el oro de un viejo capitn pirata
 
 ## Historia y Narrativa (si aplica):
 - Trama principal del juego.
@@ -25,9 +21,7 @@
 - Eventos clave y giros en la historia.
 
 ## Arte y Gráficos:
-- Estilo artístico del juego.
-- Descripción de los elementos visuales, como personajes, escenarios, objetos, etc.
-- Recursos necesarios (artistas, herramientas de diseño gráfico, etc.).
+estilo pixel art ciudade tropicales, mar, islas y cuevas
 
 ## Sonido y Música:
 - Estilo musical del juego.
@@ -39,7 +33,7 @@
 - Descripción de cada nivel, incluyendo su objetivo y desafíos específicos.
 
 ## Plataformas de Destino:
-- Lista de plataformas en las que se lanzará el juego (PC, consolas, móviles, etc.).
+pc
 
 ## Plan de Desarrollo:
 - Cronograma general del desarrollo del juego.
