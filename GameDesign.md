@@ -9,7 +9,7 @@ crear un juego de piratas buscando un teesoro mientras que la guardia britanica 
 cuando haya encontrado el tesoro
 
 ## Mecánicas del Juego:
-los jugadores pueden manejar su barco, dar ordenes a su tripulacion, disparar a los enemigos, visitar ciudades donde encontrar mejoras a cambio de oro, pueden cubrirse y pueden usar una espada
+los jugadores pueden manejar su barco, dar ordenes a su tripulacion, disparar a los enemigos, visitar ciudades donde encontrar mejoras a cambio de oro, pueden cubrirse y pueden usar una espada single player (Es el capitan pirata) and multiplayer against the computer (El player 1 es el capitan y el resto de los jugadores son parte de la tripulación)(La diferencia entre ser parte de la tripulacion y el capitan es que el capitan toma deciciones como las mejoras del barco y el resto de decisiones)
 
 ## Jugabilidad:
 los jugadores seran capitanes pirata y como tal tendran que ir a aldeas a reclutar a su tripulacion tendran que conseguir oro para reparar sus navios y mejorarlos habra enemigos como otros piratas y la guardia britanica y el objetivo principal sera encontrar el oro de un viejo capitn pirata
