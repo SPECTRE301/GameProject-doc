@@ -35,6 +35,7 @@ el juego empieza en una carcel de la marina brtanica de la cual escapas de ahi t
 ## Arte y Gráficos:
 estilo pixel art ciudades tropicales, mar, islas y cuevas
 <!-- ** Buscar assets de este estilo para usarlos en el prototipo -->
+<!-- REFERENCIA: https://gamemaker.io/es/blog/make-pixel-art-2d-games -->
 
 ## Sonido y Música:
 - Estilo musical del juego.
