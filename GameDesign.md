@@ -54,6 +54,19 @@ pc
 - Tareas específicas y fechas de entrega.
 - Equipo de desarrollo y sus roles.
 
+### Prototipo versión 1.
+Aldea con casas en vista superior y costa. Un muelle con el barco.
+
+Elemtos:
+- Barco
+- Capitán y tripulación.
+
+Misión 1:
+Escapar en tu barco de los habitantes de la aldea después de haber robado un tesoro.
+
+Ruta:
+Desde el muelle por el mar hasta que se hunde el barco y la tripulación termina en una isla.
+
 ## Pruebas y Ajustes:
 - Estrategia de pruebas para identificar errores y problemas de equilibrio.
 - Proceso de ajuste y refinamiento basado en los comentarios de los jugadores.
