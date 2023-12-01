@@ -57,9 +57,15 @@ pc
 ### Prototipo versión 1.
 Aldea con casas en vista superior y costa. Un muelle con el barco.
 
-Elemtos:
-- Barco
+Elemtos necesasarios:
+- Barco.
 - Capitán y tripulación.
+- Aldea.
+- Muelle.
+- Habitantes de la aldea.
+- Municiones de combate.
+- Ruta por el mar.
+- Isla.
 
 Misión 1:
 Escapar en tu barco de los habitantes de la aldea después de haber robado un tesoro.
